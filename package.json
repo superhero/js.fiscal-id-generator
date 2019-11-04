@@ -1,5 +1,5 @@
 {
-  "name": "fiscal-id-generator",
+  "name": "@superhero/fiscal-id-generator",
   "version": "0.0.3",
   "description": "Generates Fiscal ID",
   "repository": "git@github.com:superhero/js.fiscal-id-generator.git",
